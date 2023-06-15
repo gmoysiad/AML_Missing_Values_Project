@@ -7,4 +7,4 @@
 
 ---
 
-Blah blah
+This is the GitHub repository for the project for Advanced Techniques in Machine Learning
